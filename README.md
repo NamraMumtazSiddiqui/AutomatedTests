@@ -16,4 +16,4 @@ This repository contains e2e (End to End) automated testcases on Cypress.Cypress
 
 **iv-**  Run the following command 
 
-     npx cypress open
+       npx cypress open
