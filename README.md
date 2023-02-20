@@ -6,11 +6,11 @@ This repository contains e2e (End to End) automated testcases on Cypress.Cypress
 
 **#Steps to run a test**
 
-**i-**   Open Visual Studio Code
+**i-**    Open Visual Studio Code
 
-**ii-**  Go to Terminal 
+**ii-**   Go to Terminal 
 
-**iii-** Go to respected test folder/repository
+**iii-**  Go to respected test folder/repository
      
        cd <Folder Path>
 
