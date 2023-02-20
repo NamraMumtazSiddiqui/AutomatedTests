@@ -12,4 +12,6 @@ ii-  Go to respected test folder/repository
 
 iii- Go to Terminal 
 
-iv-  Run the command npx cypress open
+iv-  Run the following command 
+
+npx cypress open
