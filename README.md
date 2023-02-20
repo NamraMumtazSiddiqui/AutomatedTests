@@ -8,12 +8,12 @@ This repository contains e2e (End to End) automated testcases on Cypress.Cypress
 
 i-   Open Visual Studio Code
 
-ii-  Go to respected test folder/repository
+ii-  Go to Terminal 
+
+iii- Go to respected test folder/repository
      
      cd <Folder Path>
 
-iii- Go to Terminal 
-
 iv-  Run the following command 
 
-npx cypress open
+     npx cypress open
